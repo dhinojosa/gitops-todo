@@ -5,4 +5,5 @@ body {
 h1 {
     border-radius: 3px;
     border: 2px black solid;
+    background-color: whitesmoke;
 }
